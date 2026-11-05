@@ -1,3 +1,2 @@
 # 0.1.0-beta
-- 保存和恢复跨显示器、跨桌面的工作区。
-- 与 Tangrid 集成，恢复窗口布局。
+- Save your Mac workspace. Restore it when you want.

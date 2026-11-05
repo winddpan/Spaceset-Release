@@ -1,3 +1,2 @@
 # 0.1.0-beta
-- Save and restore workspaces across displays and desktops.
-- Integrate with Tangrid to restore window layouts.
+- Save your Mac workspace. Restore it when you want.
