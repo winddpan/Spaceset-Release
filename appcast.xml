@@ -5,12 +5,12 @@
     <link>https://github.com/winddpan/Spaceset-Release</link>
     <description>Spaceset Updates</description>
     <item>
-      <title>Version 0.1.1-beta</title>
+      <title>Version 0.1.2-beta</title>
       <sparkle:releaseNotesLink xml:lang="en">https://raw.githubusercontent.com/winddpan/Spaceset-Release/refs/heads/main/CHANGELOG-beta.md</sparkle:releaseNotesLink>
       <sparkle:releaseNotesLink xml:lang="zh-CN">https://raw.githubusercontent.com/winddpan/Spaceset-Release/refs/heads/main/CHANGELOG-CN-beta.md</sparkle:releaseNotesLink>
-      <pubDate>Sat, 07 Nov 2026 04:13:47 +0800</pubDate>
+      <pubDate>Sat, 07 Nov 2026 05:30:13 +0800</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <enclosure url="https://github.com/winddpan/Spaceset-Release/releases/download/0.1.1-beta/spaceset-0.1.1-beta.zip" sparkle:version="0.1.1-beta" sparkle:shortVersionString="0.1.1-beta" length="10340895" sparkle:edSignature="nOusW7HSLyDlRNEj7z43qGjg55wvfJ2VMuojmRw+bN4nRDX4gJbR/a94aw8wRETQcuryfH8mPXYpjBN9GKE6AA==" type="application/octet-stream" />
+      <enclosure url="https://github.com/winddpan/Spaceset-Release/releases/download/0.1.2-beta/spaceset-0.1.2-beta.zip" sparkle:version="0.1.2-beta" sparkle:shortVersionString="0.1.2-beta" length="10367762" sparkle:edSignature="kduDt9OvJFpqKYLIiejlKjxPOfPTAD24TIT5c4GEYfHEQysA2B7+QGj0M2ItjZBKsOfBxkARzuNXchzqKectBA==" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
