@@ -1,3 +1,6 @@
+# 0.2.0-beta
+- App Templates now open sourced https://github.com/winddpan/spaceset-app-templates
+
 # 0.1.2-beta
 - Fix some restore issue
 
