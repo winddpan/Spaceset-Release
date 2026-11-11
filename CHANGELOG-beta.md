@@ -1,3 +1,8 @@
+# 0.2.4-beta
+- Improved the reliability of workspace restore
+- Improved the stability of the desktop migration feature
+- The Reuse window mechanism now supports multiple windows
+
 # 0.2.1-beta
 - A window is no longer limited to use in just one profile
 
