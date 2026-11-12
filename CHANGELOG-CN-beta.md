@@ -1,3 +1,6 @@
+# 0.2.6-beta
+- When “Open missing window” is disabled, windows that haven’t been restored will no longer be treated as errors.
+
 # 0.2.4-beta
 - Improved the reliability of workspace restore
 - Improved the stability of the desktop migration feature
