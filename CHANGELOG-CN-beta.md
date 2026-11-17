@@ -1,3 +1,6 @@
+# 0.2.8-beta
+- 如果运行Tangrid，Spacset在准备阶段使用Tangrid CLI 来加快速度
+
 # 0.2.6-beta
 - When “Open missing window” is disabled, windows that haven’t been restored will no longer be treated as errors.
 

@@ -1,3 +1,6 @@
+# 0.2.8-beta
+- If you’re running Tangrid, Spaceset uses the Tangrid CLI during the setup phase to speed things up.
+
 # 0.2.6-beta
 - When “Open missing window” is disabled, windows that haven’t been restored will no longer be treated as errors.
 
