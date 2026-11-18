@@ -1,3 +1,7 @@
+# 0.3.0-beta
+- Improved reliability of window restoring
+- Fixed some reported issues
+
 # 0.2.8-beta
 - If you’re running Tangrid, Spaceset uses the Tangrid CLI during the setup phase to speed things up.
 
