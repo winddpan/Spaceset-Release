@@ -1,3 +1,6 @@
+# 0.3.1-beta
+- Fixed an issue where the ending resotring could get stuck.
+
 # 0.3.0-beta
 - Improved reliability of window restoring
 - Fixed some reported issues
