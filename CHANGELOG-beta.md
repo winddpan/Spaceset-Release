@@ -1,3 +1,9 @@
+# 0.3.2-beta
+- Redesigned the workspace restore progress view. Each display groups windows by desktop and shows a summary when restoration finishes.
+- Improved detection of newly opened windows during a restore and reduced repeated window scans.
+- After restoring a workspace, Spaceset brings the window specified in the profile to the front when available, or falls back to the most recently used restored window.
+- The License page now shows your Tangrid license status. All features are available to beta users.
+
 # 0.3.1-beta
 - Fixed an issue where the ending resotring could get stuck.
 
