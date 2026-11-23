@@ -1,3 +1,6 @@
+# 0.3.3-beta
+- Fixed an issue that caused the UI to deadlock
+
 # 0.3.2-beta
 - Redesigned the workspace restore progress view. Each display groups windows by desktop and shows a summary when restoration finishes.
 - Improved detection of newly opened windows during a restore and reduced repeated window scans.
