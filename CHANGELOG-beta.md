@@ -1,3 +1,7 @@
+# 0.4.1-beta
+- Regular workspaces now support recording fullscreen window
+- Fixed stashed workspace not properly handling minimized windows, fullscreen windows, and hidden apps
+
 # 0.4.0-beta
 - New feature: Stash workspace. One click to stash all your desktops and windows, quit every app for a clean desktop, and restore everything later with one click.
 - Sped up restoring workspaces across multiple monitors
